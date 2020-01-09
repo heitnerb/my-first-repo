@@ -1,0 +1,23 @@
+commit 6052db821d41fd893bacaadadb4da93bcbacd80d
+Author: heitnerb <barbara_heitner@yahoo.com>
+Date:   Thu Jan 9 16:35:04 2020 +0100
+
+    added new file to  gitignore
+
+commit 9809780af3e4e9e71e04827e5812ad1e93dee497
+Author: heitnerb <barbara_heitner@yahoo.com>
+Date:   Thu Jan 9 16:25:43 2020 +0100
+
+    added gitignore
+
+commit 8e5c5a3394b4223d7013e7afcc2b31688dfb40d6
+Author: heitnerb <barbara_heitner@yahoo.com>
+Date:   Wed Jan 8 18:13:27 2020 +0100
+
+    added two files
+
+commit 586b752379c7cabbc38e548a617009130edac85c
+Author: heitnerb <barbara_heitner@yahoo.com>
+Date:   Wed Jan 8 18:07:23 2020 +0100
+
+    added readme.txt
