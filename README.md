@@ -1,20 +1,20 @@
-#Barbara Heitner
+# Barbara Heitner
 
-###Geography
+### Geography
 
 I live in Clermont-Ferrand, France.
 
-###Reading
+### Reading
 
 My favourite authors are:
 - Robert Merle
 - Kurt Vonnegut
 - Erich Maria Remarque
 
-###Movies
+### Movies
 
 My favourite film is La vita è bella.
 
-###Professional life
+### Professional life
 
 I'm a civil engineer with a PhD.
